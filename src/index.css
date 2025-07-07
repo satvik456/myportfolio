@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+background: url('/assets/react.svg');
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+
